@@ -160,5 +160,47 @@ const ARTWORK = [
     "Link": "https://www.juungle.net/#/assets/8329bc7b6513e87959dfb2f072f4296de2f94454bb055a6f01e08f5b0a477a85",
     "Image": "webvaccinator",
     "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Who needs villains with heroes like these?",
+    "Link": "https://www.juungle.net/#/assets/368afcdd222473b09597204c2dce0236163e78b8115a79ca9829b5ed47762448",
+    "Image": "webwhoneedsvillains",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "It's easy to win when you're the only one playing.",
+    "Link": "https://www.juungle.net/#/assets/9337c9a4b50eaf115f71d07938fffb07a4d735b051d13b429be339172df6855d",
+    "Image": "webitseasytowin",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Taking you out to the shed!",
+    "Link": "https://www.juungle.net/#/assets/d22d1b344c0a235efa1778ea3823531411c2314e8a39325cd7aac1663c87b913",
+    "Image": "webtotheshed",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Extremely flammable.",
+    "Link": "https://www.juungle.net/#/assets/557840e8b8ab0028e39546d226ea8169c91a3c727dd451d99b04da098258ab8e",
+    "Image": "webextremelyflammable",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Old Man Logan",
+    "Link": "https://www.juungle.net/#/assets/a63d224722f2e0dce527f2a4e24a21818dcd75ae7f59f8fddc716fc1f58431a5",
+    "Image": "weboldmanlogan",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Whole life have a balance, everything be better.",
+    "Link": "https://www.juungle.net/#/assets/38dc27cd64d05dfa6b55ca14a65a5584aac2cc33e05da39d24e2aaa23ba88c9c",
+    "Image": "webwholelifebalance",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Robo Racism",
+    "Link": "https://www.juungle.net/#/assets/090678e715d3eda305c71be9c23eab0488b553ef06d294e43333e5e5225d9e78",
+    "Image": "webroboracism",
+    "Action": "Purchase with Bitcoin Cash"
   }
 ]

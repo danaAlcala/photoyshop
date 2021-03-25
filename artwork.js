@@ -7,7 +7,7 @@ const ARTWORK = [
   },
   {
     "Name": "Told ya! Pretty cool right?",
-    "Link": "https://www.juungle.net/#/assets/7c1ee88d3eb9d89372734087bcb2ca2aa66ff06cb79bbe6f0034a43b2ae37293",
+    "Link": "https://simpleledger.info/#token/7c1ee88d3eb9d89372734087bcb2ca2aa66ff06cb79bbe6f0034a43b2ae37293",
     "Image": "webTold_ya_Pretty_cool_right",
     "Action": "SOLD!"
   },

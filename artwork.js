@@ -202,5 +202,41 @@ const ARTWORK = [
     "Link": "https://www.juungle.net/#/assets/090678e715d3eda305c71be9c23eab0488b553ef06d294e43333e5e5225d9e78",
     "Image": "webroboracism",
     "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Electrifying battle.",
+    "Link": "https://www.juungle.net/#/assets/e38b250059b2028a18a635032ee2e98843181503b79a994da16af1e30c578c5e",
+    "Image": "webelectrifyingbattle",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Flasher friends.",
+    "Link": "https://www.juungle.net/#/assets/7bd6a17dc9f0965adfc375cc84063d3317c920227dd4556f464d7f0b42509eef",
+    "Image": "webflasherfriends",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "I told him to chill out!",
+    "Link": "https://www.juungle.net/#/assets/99166f2f38fd7ed706bff6e95bcaf17015b70addbc45394a2048580700171175",
+    "Image": "webitoldhimtochillout",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Mind unraveling time traveling science!",
+    "Link": "https://www.juungle.net/#/assets/51a4397a29341ba6b6a8143efd585095cf7fa683e263e597a67ec7ba2a10a96c",
+    "Image": "webmindunravelingtimetravelingscience",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Murky waters.",
+    "Link": "https://www.juungle.net/#/assets/8c1155cb06a56439ef18d4237f0ff2d9a730cd92df0c20302a4a673fc86296dc",
+    "Image": "webmurkywaters",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Who, what, why, when, where is she!",
+    "Link": "https://www.juungle.net/#/assets/870bb94ddb0b4b3475b85435e1db7d9089bdb1639dcf4b1501c80cfc389cfdea",
+    "Image": "webwhowhatwhywhenwhereisshe",
+    "Action": "Purchase with Bitcoin Cash"
   }
 ]

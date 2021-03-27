@@ -238,5 +238,41 @@ const ARTWORK = [
     "Link": "https://www.juungle.net/#/assets/870bb94ddb0b4b3475b85435e1db7d9089bdb1639dcf4b1501c80cfc389cfdea",
     "Image": "webwhowhatwhywhenwhereisshe",
     "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Happy Valentine's Day!",
+    "Link": "https://www.juungle.net/#/assets/7fca8f9138d022fa71edf8ec5043df9c0978bfe1f38f5032b91d18c8a795cedc",
+    "Image": "webhappyvalentinesday",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "A beast in a savage land enjoying his smut.",
+    "Link": "https://www.juungle.net/#/assets/f8f57c8cce744d4b0ecf0dda296e24a8da25fdff0dee17a8892df5ccfaf8b062",
+    "Image": "webabeastinasavageland",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "The great escape.",
+    "Link": "https://www.juungle.net/#/assets/ad7fd3e3932c45a35e9db36e5ab285d01863f132076890643c7733fca1e0bc7b",
+    "Image": "webthegreatescape",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "I know what you're thinking but it's not my fault. I told them not to die!",
+    "Link": "https://www.juungle.net/#/assets/a3dff97741e1c67c77141b5fc82f4db0412ff3a9350db184d19e974f1c1ac7a0",
+    "Image": "webitoldthemnottodie",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Sorry, no cigar.",
+    "Link": "https://www.juungle.net/#/assets/726c5a00c6b34b6c4a96ed810bca18951cae8600e307bde7f67cee4231884e25",
+    "Image": "websorrynocigar",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Caption this.",
+    "Link": "https://www.juungle.net/#/assets/55f322bede521cdff1b05672e296e2708fc38541cfab8ab51ae07b1f1101d36c",
+    "Image": "webcaptionthis",
+    "Action": "Purchase with Bitcoin Cash"
   }
 ]

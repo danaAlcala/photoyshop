@@ -274,5 +274,41 @@ const ARTWORK = [
     "Link": "https://www.juungle.net/#/assets/55f322bede521cdff1b05672e296e2708fc38541cfab8ab51ae07b1f1101d36c",
     "Image": "webcaptionthis",
     "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Michael",
+    "Link": "https://www.juungle.net/#/assets/cb6a01870d0341d5479af7d26c87eadae6043060c380ab698c3b4ab1121e1196",
+    "Image": "webmichael",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Did someone say \"techno\"?",
+    "Link": "https://www.juungle.net/#/assets/6da3a7df9096214208d46e628f45bbc9ccd1cc95e9fc07002d2791bb977bef2a",
+    "Image": "webdidsomeonesaytechno",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Free fall into the night. Devil's Night that is.",
+    "Link": "https://www.juungle.net/#/assets/1161a9457128ad8839888f92a7b854f170035e47dcce64a5c3313b4d6ff0128e",
+    "Image": "webfreefallintothenight",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "The trap is set.",
+    "Link": "https://www.juungle.net/#/assets/3f40542be5cc6be7e6786ed19e5dd54612a356cb18b1bef984343c53e237bd29",
+    "Image": "webthetrapisset",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Things are shooting up!",
+    "Link": "https://www.juungle.net/#/assets/32be824dfbbe4854e27b4386d5068a44e9365e89c602d434ebe11df2662401bd",
+    "Image": "webthingsareshootingup",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "I've got your back!",
+    "Link": "https://www.juungle.net/#/assets/b3c874bf3b40aefe9464c7cf7b22e2a0428db61a1e77e386470d3bab9198c27e",
+    "Image": "webivegotyourback",
+    "Action": "Purchase with Bitcoin Cash"
   }
 ]

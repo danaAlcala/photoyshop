@@ -310,5 +310,41 @@ const ARTWORK = [
     "Link": "https://www.juungle.net/#/assets/b3c874bf3b40aefe9464c7cf7b22e2a0428db61a1e77e386470d3bab9198c27e",
     "Image": "webivegotyourback",
     "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Banana Breath",
+    "Link": "https://www.juungle.net/#/assets/5763192d5ffa75255bb679ddd4ad88df346ab4f7759e55d27be5f08aaf877532",
+    "Image": "webbananabreath",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Bred to shred",
+    "Link": "https://www.juungle.net/#/assets/3fc8d6de0e377630cf5ce3d5f1a7d94f95403b3610988ec22d58c78e2fae7e88",
+    "Image": "webbredtoshred",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Here kitty kitty",
+    "Link": "https://www.juungle.net/#/assets/946495aa30443b1dabd782646ec31242533740aa1cb9e96614fd70abe5038f73",
+    "Image": "webherekittykitty",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Maybe I'm a little afraid of no ghost",
+    "Link": "https://www.juungle.net/#/assets/bb38716b2f9bb3dec65dad9c3556aa1cc07919eea532667b1f809184cd1211c5",
+    "Image": "webmaybeimalittleafraid",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Night out with the city hunter",
+    "Link": "https://www.juungle.net/#/assets/9c7869905c295cf0a9a06ed0780884bfb22466db42790000e98685eaae0abd59",
+    "Image": "webnightoutwiththecityhunter",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Stand on one foot",
+    "Link": "https://www.juungle.net/#/assets/3858f06ea14532e4b9d6622c0fbd1dfba34099696f3853d6676e76b91d33c0bb",
+    "Image": "webstandononefoot",
+    "Action": "Purchase with Bitcoin Cash"
   }
 ]

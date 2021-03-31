@@ -346,5 +346,41 @@ const ARTWORK = [
     "Link": "https://www.juungle.net/#/assets/3858f06ea14532e4b9d6622c0fbd1dfba34099696f3853d6676e76b91d33c0bb",
     "Image": "webstandononefoot",
     "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Magic in these here woods",
+    "Link": "https://www.juungle.net/#/assets/9b68eb4db784fc9cbe251f43833d75c5d67b15868bbd6355acfd37cbfdce5225",
+    "Image": "webmagicintheseherewoods",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Nom Nom",
+    "Link": "https://www.juungle.net/#/assets/2df36fcfccb54a2fc3b3458ae63911a247fc85e7b692a724bb70f798a5b18036",
+    "Image": "webnomnom",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Samurai Shogun",
+    "Link": "https://www.juungle.net/#/assets/06d9cee344ab8009b72764c48f2d998cdc39a7db48c92119f2eb54b583335c4b",
+    "Image": "websamuraishogun",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Told ya turtle dudes!",
+    "Link": "https://www.juungle.net/#/assets/9f1f331b4a2ad82ed44fac248aeb7cb2c5f5580809981689c145dfa3cdc25dde",
+    "Image": "webtoldyaturtledudes",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Where the hell you think you're going!?",
+    "Link": "https://www.juungle.net/#/assets/6d441a1cfff9a0bd00b3d53ebfc9e64855356b24591c5d72a40d99645929dafd",
+    "Image": "webwherethehell",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Why can't we be friends?",
+    "Link": "https://www.juungle.net/#/assets/4b3b3783a80053cd1732587201db40bc61a06a22f95b6d69a9061e0615854a07",
+    "Image": "webwhycan'twebefriends",
+    "Action": "Purchase with Bitcoin Cash"
   }
 ]

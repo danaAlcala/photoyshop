@@ -380,7 +380,43 @@ const ARTWORK = [
   {
     "Name": "Why can't we be friends?",
     "Link": "https://www.juungle.net/#/assets/4b3b3783a80053cd1732587201db40bc61a06a22f95b6d69a9061e0615854a07",
-    "Image": "webwhycantwebefriends",
+    "Image": "webwhycan'twebefriends",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Dimensions are destinations",
+    "Link": "https://www.juungle.net/#/assets/3bae90f7bca742c6fa94655ab9729f4d89f33dce41cd1040166a23f832a15f76",
+    "Image": "webdimensionsaredestinations",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "He's not playing",
+    "Link": "https://www.juungle.net/#/assets/d9ea5e0bbe53088f1c9b1d5ff91ffaaceab72fe82317f960dc1d15fcb4d46cfa",
+    "Image": "webhesnotplaying",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "It totally works dude!",
+    "Link": "https://www.juungle.net/#/assets/161f03a9cd5d8689dc4e62505528d87b5ba28670a9e9c5ee67006bc749c021d8",
+    "Image": "webittotallyworksdude",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Put these on",
+    "Link": "https://www.juungle.net/#/assets/5a5177b7cb6e9b60f03c65c387a8c9677ac7aff406dd06e848ace31d44a2397f",
+    "Image": "webputtheseon",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Rabbit in a snow storm",
+    "Link": "https://www.juungle.net/#/assets/46ef3d0e96210a51f8b2e4067099c33354e30d91b61d5e3694b77c5040f4c451",
+    "Image": "webrabbitinasnowstorm",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "The gremlin king",
+    "Link": "https://www.juungle.net/#/assets/64fe4363ee0bdbadc92982e659c3b4973aca42043634ac87cefc85f08656f8f3",
+    "Image": "webthegremlinking",
     "Action": "Purchase with Bitcoin Cash"
   }
 ]

@@ -380,7 +380,7 @@ const ARTWORK = [
   {
     "Name": "Why can't we be friends?",
     "Link": "https://www.juungle.net/#/assets/4b3b3783a80053cd1732587201db40bc61a06a22f95b6d69a9061e0615854a07",
-    "Image": "webwhycan'twebefriends",
+    "Image": "webwhycantwebefriends",
     "Action": "Purchase with Bitcoin Cash"
   },
   {

@@ -380,7 +380,7 @@ const ARTWORK = [
   {
     "Name": "Why can't we be friends?",
     "Link": "https://www.juungle.net/#/assets/4b3b3783a80053cd1732587201db40bc61a06a22f95b6d69a9061e0615854a07",
-    "Image": "webwhycantwebefriends",
+    "Image": "webwhycan'twebefriends",
     "Action": "Purchase with Bitcoin Cash"
   },
   {
@@ -417,6 +417,42 @@ const ARTWORK = [
     "Name": "The gremlin king",
     "Link": "https://www.juungle.net/#/assets/64fe4363ee0bdbadc92982e659c3b4973aca42043634ac87cefc85f08656f8f3",
     "Image": "webthegremlinking",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "How much do you weigh?",
+    "Link": "https://www.juungle.net/#/assets/861dc6547ac0f3fd238c7660e903da96d316cd9778962524fa7987fa615a1a79",
+    "Image": "webhowmuchdoyouweigh",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Hungry fella?",
+    "Link": "https://www.juungle.net/#/assets/42048eaa87e73728aa3d766f69eb0449e37f8ebd8a0bfd421427d560f5bb5043",
+    "Image": "webhungryfella",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Locked and loaded",
+    "Link": "https://www.juungle.net/#/assets/841b0f4d3dd8eb210acfe0d51bd9633aa29e49645f6ce70372b99f8c0ca8bcc6",
+    "Image": "weblockedandloaded",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "New year, same gi",
+    "Link": "https://www.juungle.net/#/assets/afdb6f31690c9391b727e7228003fb3aea500d65d72d18360bea85bab1dfbc89",
+    "Image": "webnewyearsamegi",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Open sesame",
+    "Link": "https://www.juungle.net/#/assets/a2721a09049e3da7b35facb44dec8f6091b681bcc76015be8be18bdcbcdf301a",
+    "Image": "webopensesame",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Usual?",
+    "Link": "https://www.juungle.net/#/assets/052dadb761b14aec1d883eb5664b2e687f3c06a04a30dec9c12705c497c77970",
+    "Image": "webusual",
     "Action": "Purchase with Bitcoin Cash"
   }
 ]

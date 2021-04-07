@@ -454,5 +454,41 @@ const ARTWORK = [
     "Link": "https://www.juungle.net/#/assets/052dadb761b14aec1d883eb5664b2e687f3c06a04a30dec9c12705c497c77970",
     "Image": "webusual",
     "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Alpha predalien",
+    "Link": "https://www.juungle.net/#/assets/e35dafb895c7fd276c9e720ae6361f9decce0c63b3210d18a223569bebfdfe75",
+    "Image": "webalphapredalien",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Any last words?",
+    "Link": "https://www.juungle.net/#/assets/496fb77517a2f4f5ba345cadfeea5e2cdf17ef341096a8ee8921dba92d8ad830",
+    "Image": "webanylastwords",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Carnage",
+    "Link": "https://www.juungle.net/#/assets/5e4a8aad353a3e1bbed701951e9f2c6990f693dc74b2cafdd36e7e4d82a8d5f7",
+    "Image": "webcarnage",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Creep keeping clean",
+    "Link": "https://www.juungle.net/#/assets/3fa9a73c55bd7773c2fc9610e79d90ac08c74a99d6353cb3079eb9827deb202f",
+    "Image": "webcreepkeepingclean",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Stealthy entrance",
+    "Link": "https://www.juungle.net/#/assets/ead748a22cc59620a1759b6b4970613f0a779ef1ac1f14fc949396ad1bcf2f4e",
+    "Image": "webstealthyentrance",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Wrong bar",
+    "Link": "https://www.juungle.net/#/assets/5a5fad162aca7d70457c21bd7da6d65e37ebe7e715739249f8d356e0eaee68c4",
+    "Image": "webwrongbar",
+    "Action": "Purchase with Bitcoin Cash"
   }
 ]

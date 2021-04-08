@@ -490,5 +490,53 @@ const ARTWORK = [
     "Link": "https://www.juungle.net/#/assets/5a5fad162aca7d70457c21bd7da6d65e37ebe7e715739249f8d356e0eaee68c4",
     "Image": "webwrongbar",
     "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Wandering Wick",
+    "Link": "https://www.juungle.net/#/assets/de83406816f6be07868e20401c996408968d74eeb9441728369edac29b83fc9a",
+    "Image": "webwanderingwick",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Heard this was a school for mutants...",
+    "Link": "https://www.juungle.net/#/assets/97f3c132828dc46e2f32c48678a55bc537e8ec58b5294115c99bbf7dc37414b1",
+    "Image": "webheardthiswasaschoolformutants",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Not the only clown in town.",
+    "Link": "https://www.juungle.net/#/assets/4a5b69c5e22a9a1ab61393ba1ff8ce3ba147f20f0fca536f18c1d47b4892f583",
+    "Image": "webnottheonlyclownintown",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "From one Avenger to another",
+    "Link": "https://www.juungle.net/#/assets/1319c569600d7ecfa2eb6c8f37bcc8788a5be98f22577fbffd1a1fcb2c30e27f",
+    "Image": "webfromoneavengertoanother",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Wondrous",
+    "Link": "https://www.juungle.net/#/assets/9f566e2a6dfbbf99c8a4e719246d6e7433e4a2cfb7a2018f0fb31e8e1d88668c",
+    "Image": "wenwondrous",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Stranger Danger",
+    "Link": "https://www.juungle.net/#/assets/b690394292e50344d75b8972a1bd4b69a43a0ebeac8cbfda7e692d37589cd50a",
+    "Image": "webstrangerdanger",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "What's your problem?",
+    "Link": "https://www.juungle.net/#/assets/d15a6dd9837165973bc0499a865d64363625192b254dd2c10834740c959eb4ae",
+    "Image": "webwhatsyourproblem",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Sensai-Tiv",
+    "Link": "https://www.juungle.net/#/assets/7c5dd6bc21d7a832150f412e9aea48cfcfc171fc1317003685c6cda894b34277",
+    "Image": "websensaitiv",
+    "Action": "Purchase with Bitcoin Cash"
   }
 ]

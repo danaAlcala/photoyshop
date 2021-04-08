@@ -518,7 +518,7 @@ const ARTWORK = [
   {
     "Name": "Wondrous",
     "Link": "https://www.juungle.net/#/assets/9f566e2a6dfbbf99c8a4e719246d6e7433e4a2cfb7a2018f0fb31e8e1d88668c",
-    "Image": "wenwondrous",
+    "Image": "webwondrous",
     "Action": "Purchase with Bitcoin Cash"
   },
   {

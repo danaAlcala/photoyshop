@@ -538,5 +538,59 @@ const ARTWORK = [
     "Link": "https://www.juungle.net/#/assets/7c5dd6bc21d7a832150f412e9aea48cfcfc171fc1317003685c6cda894b34277",
     "Image": "websensaitiv",
     "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Appetite for possession",
+    "Link": "https://www.juungle.net/share/77a0416a50c8b89a1c1734f2ae4797a5bf6d461f1f6a1d893084d54ea66c5c4e",
+    "Image": "webappetiteforpossession",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Baby Ruth?",
+    "Link": "https://www.juungle.net/share/77a0416a50c8b89a1c1734f2ae4797a5bf6d461f1f6a1d893084d54ea66c5c4e",
+    "Image": "webbabybabywooth",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Going with the McFarlane look tonight.",
+    "Link": "https://www.juungle.net/share/36b795daa2bcb314e7892561e0b2d462c84d61346555048719ecffed03aea6c5",
+    "Image": "webgoingwiththemcfarlanelooktonight",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "I'm on vacation bub!",
+    "Link": "https://www.juungle.net/share/ece5120336c2ff2bf0b4009530e077d7a63923de6b027bfab706137890fb38e6",
+    "Image": "webimonvacationbub",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Let there be life",
+    "Link": "https://www.juungle.net/share/7321e0dfe65eba96b0d9bd667d4322ba3521f983c37ab9196fa85d46be6f27c4",
+    "Image": "weblettherebelife",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "On the outside looking in",
+    "Link": "https://www.juungle.net/share/1b435415da13b50d81e5912399816fdf7ee3a5f68bc80add5d1ee977fab65beb",
+    "Image": "webontheoutsidelookingin",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Hoverboard",
+    "Link": "https://www.juungle.net/share/fb9c1ad9ac17d6050eaecfad3177b94d8011fd9a1b483dc1a3b63db3dd89966c",
+    "Image": "webnoyes",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "True magic is a scary thing",
+    "Link": "https://www.juungle.net/share/49b9960f287e59dd5bc0ea6d5946ea8cb5269148db97eebca7099813cf0d3a6c",
+    "Image": "webtruemagic",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Feeding time",
+    "Link": "https://www.juungle.net/share/ce6d8929f06317c53d1f35e6ee5e43387aa54d19413949d2dd94f6386ded9c72",
+    "Image": "webwherethemeatis",
+    "Action": "Purchase with Bitcoin Cash"
   }
 ]

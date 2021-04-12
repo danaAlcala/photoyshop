@@ -592,5 +592,41 @@ const ARTWORK = [
     "Link": "https://www.juungle.net/share/ce6d8929f06317c53d1f35e6ee5e43387aa54d19413949d2dd94f6386ded9c72",
     "Image": "webwherethemeatis",
     "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Everything is upside down",
+    "Link": "https://www.juungle.net/share/2ae0eea34ec4377e8b6a02295ef7800a2fb4deff38d7751401ad6fe519fd08b5",
+    "Image": "web2ae0eea34ec4377e8b6a02295ef7800a2fb4deff38d7751401ad6fe519fd08b5",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "I scream, you scream, we all scream",
+    "Link": "https://www.juungle.net/share/c9a805ddb6d1a3832ff0744c45c7768f8e0c378bcff1b75a5c3d3df24e00854e",
+    "Image": "webc9a805ddb6d1a3832ff0744c45c7768f8e0c378bcff1b75a5c3d3df24e00854e",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Show them around",
+    "Link": "https://www.juungle.net/share/e5348dcb7060b6afa15073036658f2f5869c749a2b7c530eb43dec619b752838",
+    "Image": "webe5348dcb7060b6afa15073036658f2f5869c749a2b7c530eb43dec619b752838",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Sith night fever",
+    "Link": "https://www.juungle.net/share/e52646e4716f612368bbd5d03435c439a76d80b1b3dfd41431a51667556e2e55",
+    "Image": "webe52646e4716f612368bbd5d03435c439a76d80b1b3dfd41431a51667556e2e55",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "This is your brain on food after midnight",
+    "Link": "https://www.juungle.net/share/22233ce6aa4dae00bb86681984da8309732277d461729fef0cd3969c0c827652",
+    "Image": "web22233ce6aa4dae00bb86681984da8309732277d461729fef0cd3969c0c827652",
+    "Action": "Purchase with Bitcoin Cash"
+  },
+  {
+    "Name": "Walking that crooked mile",
+    "Link": "https://www.juungle.net/share/bb195e5b99afa68625ce6e8a65d65c2cfed08d3f81c3a58209f7973940bf34ab",
+    "Image": "webbb195e5b99afa68625ce6e8a65d65c2cfed08d3f81c3a58209f7973940bf34ab",
+    "Action": "Purchase with Bitcoin Cash"
   }
 ]
